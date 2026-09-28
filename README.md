@@ -1,16 +1,30 @@
-# React + Vite
+# e-plantShopping
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+e-plantShopping is a React-based online plant shopping application called Paradise Nursery.
 
-Currently, two official plugins are available:
+The application allows users to browse different categories of houseplants, view plant details, add plants to a shopping cart, update quantities, remove items, and view the total cart amount.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Paradise Nursery landing page
+- Plant categories
+- Product listing
+- Add to Cart functionality
+- Dynamic cart count
+- Increase and decrease plant quantity
+- Remove plants from cart
+- Total cart amount
+- Checkout option
+- Continue Shopping option
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the Oxlint configuration
+- React
+- JavaScript
+- CSS
+- Redux Toolkit
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Project Name
+
+e-plantShopping
